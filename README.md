@@ -29,4 +29,4 @@ A modern, fully responsive Hotel Management System frontend built with **React.j
 - **React Icons** – Icon library
 - **Vite** – Build tool & dev server
 
-## 📁 Project Structure
+
